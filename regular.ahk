@@ -1,4 +1,5 @@
-*t::!+Esc
+i & t::!+Esc
+*t::!Tab
 *3::LShift
 *0::RShift
 *b::BackSpace

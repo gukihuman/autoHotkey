@@ -14,7 +14,6 @@ art := "False"
 *s::s
 *d::d
 *f::f
-*g::g
 *LShift::LShift
 *z::z
 *x::x
