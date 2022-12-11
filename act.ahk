@@ -1,7 +1,12 @@
-9 & c::^+Tab
-9 & v::^Tab
+9 & Tab::^c
+9 & q::^v
 9 & w::^s
-9 & x::^+T
+9 & CapsLock::^x
+9 & a::^y
+9 & s::^z
 9 & d::^w
 9 & f::^t
 9 & LShift::^/
+9 & x::^+T
+9 & c::^+Tab
+9 & v::^Tab

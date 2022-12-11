@@ -12,6 +12,7 @@
 *y::return
 *]::return
 *RShift::return
+*LCtrl::return
 *BackSpace::return
-*RCtrl::return
 *i::return
+*Enter::return
