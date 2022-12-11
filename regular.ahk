@@ -1,3 +1,4 @@
+r & t::!+Esc
 i & t::!+Esc
 *t::!Tab
 *3::LShift
