@@ -1,10 +1,11 @@
+9 & t::!+Esc
 9 & Tab::^c
 9 & q::^v
 9 & w::^s
 9 & CapsLock::^a
 9 & a::^y
 9 & s::^z
-9 & d::^w
+9 & b::^w
 9 & f::^t
 9 & LShift::^/
 9 & z::^x
