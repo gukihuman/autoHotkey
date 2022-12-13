@@ -1,6 +1,6 @@
 *t::!Tab
 *3::LShift
-*0::RShift
+*9::RShift
 *b::BackSpace
 *h::Enter
 *g::Esc

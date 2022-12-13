@@ -18,21 +18,21 @@ ru := "False"
 *x::Send, {U+0447}
 *c::Send, {U+0433}
 *v::Send, {U+0438}
-0 & 5::Send, {U+0428}
-0 & 6::Send, {U+0426}
-0 & Tab::Send, {U+0423}
-0 & q::Send, {U+042F}
-0 & w::Send, {U+0410}
-0 & CapsLock::Send, {U+041A}
-0 & a::Send, {U+0411}
-0 & s::Send, {U+042E}
-0 & d::Send, {U+0415}
-0 & f::Send, {U+041E}
-0 & LShift::Send, {U+042B}
-0 & z::Send, {U+0416}
-0 & x::Send, {U+0427}
-0 & c::Send, {U+0413}
-0 & v::Send, {U+0418}
+9 & 5::Send, {U+0428}
+9 & 6::Send, {U+0426}
+9 & Tab::Send, {U+0423}
+9 & q::Send, {U+042F}
+9 & w::Send, {U+0410}
+9 & CapsLock::Send, {U+041A}
+9 & a::Send, {U+0411}
+9 & s::Send, {U+042E}
+9 & d::Send, {U+0415}
+9 & f::Send, {U+041E}
+9 & LShift::Send, {U+042B}
+9 & z::Send, {U+0416}
+9 & x::Send, {U+0427}
+9 & c::Send, {U+0413}
+9 & v::Send, {U+0418}
 
 ; Right hand
 *7::Send, {U+0439}

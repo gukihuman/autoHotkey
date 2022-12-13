@@ -6,6 +6,7 @@
 *6::return
 *7::return
 *8::return
+*0::return
 *-::return
 *y::return
 *]::return
