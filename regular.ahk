@@ -1,8 +1,10 @@
+i & t::!+Esc
 *t::!Tab
 *3::LShift
-*9::RShift
+*0::RShift
 *b::BackSpace
 *h::Enter
 *g::Esc
-*1::LCtrl
-*=::Delete
+*4::LCtrl
+*9::RCtrl
+*Esc::Delete

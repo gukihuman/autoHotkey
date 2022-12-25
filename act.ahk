@@ -1,14 +1,5 @@
-8 & t::!+Esc
-8 & Tab::^c
-8 & q::^v
-8 & w::^s
-8 & CapsLock::^a
-8 & a::^y
-8 & s::^z
-8 & b::^w
-8 & f::^t
-8 & LShift::^/
-8 & z::^x
-8 & x::^+T
-8 & c::^+Tab
-8 & v::^Tab
+= & e::Run "%LOCALAPPDATA%\Microsoft\WindowsApps\wt.exe"
+= & f::Send console.log({enter}
+= & d::Send <template lang="pug">{enter}{enter}{enter}{Up}
+= & s::Send <script setup>{enter}{enter}{enter}{Up}
+= & q::!F4

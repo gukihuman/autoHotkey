@@ -1,5 +1,5 @@
 art := "False"
-`::art := !art && ru := "False"
+`::art := !art
 
 #if (art = true)
 *3::3
@@ -14,6 +14,7 @@ art := "False"
 *s::s
 *d::d
 *f::f
+*g::g
 *LShift::LShift
 *z::z
 *x::x

@@ -13,7 +13,7 @@ SetWorkingDir, %A_ScriptDir%\
 #Include paren.ahk
 #Include symb2.ahk
 #Include act.ahk
-#Include arrows.ahk
+#Include music.ahk
 
 #Include double.ahk
 #Include ru.ahk
