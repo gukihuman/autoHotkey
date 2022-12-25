@@ -2,8 +2,8 @@ i & f::Right
 i & d::Left
 i & c::Down
 i & v::Up
-i & q::\
-i & e:::
-i & w::`;
+i & s::\
+i & w:::
+i & q::`;
 i & Space::Tab
 i & Tab::^/

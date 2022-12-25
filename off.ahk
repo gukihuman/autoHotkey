@@ -1,3 +1,6 @@
+*e::return
+*i::return
+*`::return
 *5::return
 *6::return
 *7::return
