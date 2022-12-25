@@ -8,9 +8,9 @@ SetWorkingDir, %A_ScriptDir%\
 #Include regular.ahk
 #Include letters.ahk
 #Include num.ahk
-#Include symb0.ahk
+#Include arrows.ahk
 #Include symb1.ahk
-#Include paren.ahk
+#Include symb0.ahk
 #Include symb2.ahk
 #Include act.ahk
 #Include music.ahk
