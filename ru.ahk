@@ -9,13 +9,13 @@ ru := "False"
 *q::Send, {U+044F}
 *r::Send, {U+0430}
 *CapsLock::Send, {U+044C}
-*a::Send, {U+0431}
+*a::Send, {U+0447}
 *s::Send, {U+044E}
 *d::Send, {U+0435}
 *f::Send, {U+043E}
 *LShift::Send, {U+044B}
 *z::Send, {U+0436}
-*x::Send, {U+0447}
+*x::Send, {U+0431}
 *c::Send, {U+0433}
 *v::Send, {U+0438}
 0 & 5::Send, {U+0428}
@@ -24,13 +24,13 @@ ru := "False"
 0 & q::Send, {U+042F}
 0 & r::Send, {U+0410}
 0 & CapsLock::Send, {U+042C}
-0 & a::Send, {U+0411}
+0 & a::Send, {U+0427}
 0 & s::Send, {U+042E}
 0 & d::Send, {U+0415}
 0 & f::Send, {U+041E}
 0 & LShift::Send, {U+042B}
 0 & z::Send, {U+0416}
-0 & x::Send, {U+0427}
+0 & x::Send, {U+0411}
 0 & c::Send, {U+0413}
 0 & v::Send, {U+0418}
 
