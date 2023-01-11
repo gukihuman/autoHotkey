@@ -6,3 +6,4 @@
 = & Tab::Send 📜
 = & a::Send ✅
 = & CapsLock::Send ❎
+= & w::Send ❗

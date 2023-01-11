@@ -10,3 +10,4 @@ e & o::8
 e & [::9
 e & Space::Tab
 e & f::^s
+e & h::Send {enter}{esc}{d}{d}{d}{d}
