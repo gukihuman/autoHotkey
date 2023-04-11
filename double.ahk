@@ -1,4 +1,4 @@
 #if GetKeyState("e", "P")
-i & f::^+Tab
-i & j::^Tab
+sc17 & sc21::^+Tab
+sc17 & sc24::^Tab
 #if

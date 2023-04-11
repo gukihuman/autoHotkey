@@ -2,9 +2,6 @@
 SendMode Input
 SetWorkingDir, %A_ScriptDir%\
 
-*\::Suspend
-
-#Include off.ahk
 #Include regular.ahk
 #Include letters.ahk
 #Include num.ahk
@@ -13,7 +10,6 @@ SetWorkingDir, %A_ScriptDir%\
 #Include symb0.ahk
 #Include symb2.ahk
 #Include act.ahk
-
 #Include double.ahk
 #Include ru.ahk
 #Include art.ahk
