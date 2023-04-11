@@ -12,3 +12,9 @@ sc0d & sc2f::sc3c
 
 sc05 & sc25::^sc14
 sc05 & sc26::^+sc14
+sc05 & sc1a::^+sc19
+sc05 & sc31::^sc20
+sc05 & sc17::^sc17
+sc05 & sc18::^sc18
+sc05 & sc32::^sc32
+
