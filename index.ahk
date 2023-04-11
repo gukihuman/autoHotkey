@@ -2,6 +2,7 @@
 SendMode Input
 SetWorkingDir, %A_ScriptDir%\
 
+#Include off.ahk
 #Include regular.ahk
 #Include letters.ahk
 #Include num.ahk
