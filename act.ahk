@@ -7,3 +7,4 @@
 = & a::Send ✅
 = & CapsLock::Send ❎
 = & w::Send ❗
+= & v::F2

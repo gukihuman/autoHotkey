@@ -13,7 +13,6 @@ SetWorkingDir, %A_ScriptDir%\
 #Include symb0.ahk
 #Include symb2.ahk
 #Include act.ahk
-#Include music.ahk
 
 #Include double.ahk
 #Include ru.ahk
