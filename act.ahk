@@ -8,7 +8,8 @@ sc0d & sc0f::Send 📜
 sc0d & sc1e::Send ✅
 sc0d & sc3a::Send ❎
 sc0d & sc10::Send ❗
-sc0d & sc2e::^sc3c
+sc0d & sc2e::Send {CtrlDown}{sc3c}{CtrlUp}{esc}
+
 sc0d & sc2f::sc3c
 
 sc05 & sc25::^sc14
