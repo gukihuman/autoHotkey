@@ -5,8 +5,8 @@ sc0d & sc20::Send <template lang="pug">{enter}{enter}{enter}{Up}
 sc0d & sc1f::Send <script setup lang="ts">{enter}{enter}{enter}{Up}
 sc0d & sc24::!sc3e
 sc0d & sc0f::Send 📜
-sc0d & sc1e::Send ✅
-sc0d & sc3a::Send ❎
+sc0d & sc1e::Send ⏫
+sc0d & sc3a::Send ⏬
 sc0d & sc10::Send ❗
 sc0d & sc2e::Send {CtrlDown}{sc3c}{CtrlUp}{esc}
 
@@ -20,3 +20,5 @@ sc05 & sc17::^sc17
 sc05 & sc18::^+sc17
 sc05 & sc32::^sc32
 
+
+MButton::Send {Space}{Enter}
