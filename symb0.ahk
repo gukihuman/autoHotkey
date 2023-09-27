@@ -9,3 +9,5 @@ sc17 & sc11::,
 sc17 & sc10:::
 sc17 & sc0f::`;
 sc17 & sc24::^sc11
+sc18 & sc17::CapsLock
+

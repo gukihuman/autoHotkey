@@ -11,5 +11,5 @@ sc12 & sc18::!
 sc12 & sc1a::?
 sc12 & sc32::<
 sc12 & sc33::>
-sc12 & sc34::\
+sc12 & sc34::#
 sc12 & sc21::^sc1f
