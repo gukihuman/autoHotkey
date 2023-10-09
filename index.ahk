@@ -6,7 +6,6 @@ SetWorkingDir, %A_ScriptDir%\
 #Include regular.ahk
 #Include letters.ahk
 #Include num.ahk
-#Include arrows.ahk
 #Include symb1.ahk
 #Include symb0.ahk
 #Include symb2.ahk
