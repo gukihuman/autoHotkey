@@ -13,6 +13,7 @@ sc0d & sc2e::Send {CtrlDown}{sc3c}{CtrlUp}{esc}
 
 sc0d & sc2f::sc3c
 
+sc05 & sc24::LWin
 sc05 & sc25::^sc14
 sc05 & sc26::^+sc14
 sc05 & sc1a::^+sc19
