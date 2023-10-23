@@ -1,5 +1,5 @@
 ﻿sc0d & sc12::Run "%LOCALAPPDATA%\Microsoft\WindowsApps\wt.exe"
-sc0d & sc13::Run "C:\Users\sokol\Documents\projects\autoHotkey\index.ahk"
+sc0d & sc13::Run "C:\projects\autoHotkey\index.ahk"
 sc0d & sc21::Send console.log({enter}
 sc0d & sc20::Send <template lang="pug">{enter}{enter}{enter}{Up}
 sc0d & sc1f::Send <script setup lang="ts">{enter}{enter}{enter}{Up}
