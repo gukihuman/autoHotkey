@@ -21,6 +21,8 @@ sc05 & sc31::^sc20
 sc05 & sc17::^sc17
 sc05 & sc18::^+sc17
 sc05 & sc32::^sc32
+sc05 & sc33::Send, {LWinDown}{g}{LWinUp}
+
 
 
 MButton::Send {Space}{Enter}
