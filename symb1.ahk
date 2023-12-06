@@ -1,13 +1,13 @@
 sc12 & sc24::=
 sc12 & sc31::*
-sc12 & sc16::/
+sc12 & sc16::!
 sc12 & sc25::"
-sc12 & sc26::'
+sc12 & sc26::|
 sc12 & sc27::&
-sc12 & sc28::|
+sc12 & sc28::'
 sc12 & sc17::-
+sc12 & sc18::_
 sc12 & sc19::+
-sc12 & sc18::!
 sc12 & sc1a::?
 sc12 & sc32::<
 sc12 & sc33::>
