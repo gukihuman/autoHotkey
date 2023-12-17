@@ -13,10 +13,10 @@ sc0d & sc0a::
 return
 sc0d & sc24::!sc3e
 sc0d & sc0f::Send 📜
-sc0d & sc1e::Send ⏫
-sc0d & sc3a::Send ⏬
 sc0d & sc10::Send ❗
 sc0d & sc11::Send 🔧
+sc0d & sc3a::Send 🌱
+sc0d & sc1e::Send ⏬
 sc0d & sc2e::Send {CtrlDown}{sc3c}{CtrlUp}{esc}
 
 sc0d & sc2f::sc3c
@@ -28,7 +28,13 @@ sc05 & sc1a::^+sc19
 sc05 & sc31::^sc20
 sc05 & sc17::^sc17
 sc05 & sc18::^+sc17
-sc05 & sc32::^sc32
+sc05 & sc32::
+    CoordMode, Mouse, Screen
+    MouseGetPos, startX, startY
+    Click, 20, 20
+    MouseMove, startX, startY
+    Click
+return
 sc05 & sc33::Send, {LWinDown}{g}{LWinUp}
 
 MButton::Send {Space}{Enter}
