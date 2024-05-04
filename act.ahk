@@ -11,7 +11,7 @@ sc0d & sc21::
 return
 sc0d & sc20::
     ClipboardBackup := ClipboardAll
-    Clipboard := "<template lang=""pug"">`n</template>"
+    Clipboard := "<template>`n</template>"
     ClipWait
     SendInput {Ctrl down}{SC2f down}{SC2f up}{Ctrl up}{left}
     Sleep, 50
