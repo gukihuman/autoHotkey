@@ -62,3 +62,4 @@ return
 sc05 & sc33::Send, {LWinDown}{g}{LWinUp}
 
 MButton::Send {Space}{Enter}
+sc37::sc14
