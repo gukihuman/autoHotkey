@@ -20,7 +20,7 @@ sc0d & sc20::
 return
 sc0d & sc1f::
     ClipboardBackup := ClipboardAll
-    Clipboard := "<script setup lang=""ts"">`n</script>"
+    Clipboard := "<script setup>`n</script>"
     ClipWait
     SendInput {Ctrl down}{SC2f down}{SC2f up}{Ctrl up}{left}
     Sleep, 50
@@ -39,8 +39,8 @@ sc0d & sc24::!sc3e
 sc0d & sc0f::Send 📜
 sc0d & sc10::Send ❗
 sc0d & sc11::Send 🔧
-sc0d & sc3a::Send 🌱
-sc0d & sc1e::Send ⏬
+sc0d & sc3a::Send ⏬
+sc0d & sc1e::Send *smiling*
 sc0d & sc2e::Send {CtrlDown}{sc3c}{CtrlUp}{esc}
 
 sc0d & sc2f::sc3c
@@ -61,5 +61,8 @@ sc05 & sc32::
 return
 sc05 & sc33::Send, {LWinDown}{g}{LWinUp}
 
-MButton::Send {Space}{Enter}
+; MButton::Send {Space}{Enter}
+MButton::sc41
+
 sc37::sc14
+; sc37::Click
