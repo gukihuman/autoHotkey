@@ -38,8 +38,8 @@ return
 sc0d & sc24::!sc3e
 sc0d & sc0f::Send 📜
 sc0d & sc10::Send ❗
-sc0d & sc11::Send 🔧
-sc0d & sc3a::Send ⏬
+sc0d & sc11::Send ⏬
+sc0d & sc3a::Send ✅
 sc0d & sc1e::Send *smiling*
 sc0d & sc2e::Send {CtrlDown}{sc3c}{CtrlUp}{esc}
 
