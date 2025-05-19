@@ -9,7 +9,7 @@ sc0d & sc21::
     SendInput {SC17}`){left}
     Clipboard := clipboardBackup
 return
-sc0d & sc20::
+sc0d & sc11::
     ClipboardBackup := ClipboardAll
     Clipboard := "<template>`n</template>"
     ClipWait
@@ -18,7 +18,7 @@ sc0d & sc20::
     SendInput {esc}o
     Clipboard := clipboardBackup
 return
-sc0d & sc1f::
+sc0d & sc10::
     ClipboardBackup := ClipboardAll
     Clipboard := "<script setup>`n</script>"
     ClipWait
@@ -35,12 +35,13 @@ sc0d & sc0a::
     Sleep, 50
     Clipboard := clipboardBackup
 return
+
 sc0d & sc24::!sc3e
-sc0d & sc0f::Send 📜
-sc0d & sc10::Send ❗
-sc0d & sc11::Send ✅
-sc0d & sc3a::Send the
-sc0d & sc1e::Send *smiling*
+sc0d & sc1e::Send 📜
+sc0d & sc0f::Send ✅
+sc0d & sc3a::Send ❗
+sc0d & sc20::Send the{Space}
+sc0d & sc1f::Send *smiling*
 sc0d & sc2e::Send {CtrlDown}{sc3c}{CtrlUp}{esc}
 
 sc0d & sc2f::sc3c
