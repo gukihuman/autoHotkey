@@ -11,12 +11,14 @@ sc0d & sc0a::
 return
 
 sc0d & sc24::!sc3e
-sc0d & sc1e::Send the{Space}
-sc0d & sc20::Send ≡
-sc0d & sc1f::Send ▷
-sc0d & sc21::Send 〇
+sc0d & sc2d::Send the{Space}
+sc0d & sc1f::Send ⫸
+sc0d & sc1e::Send ▷
+sc0d & sc21::Send ◉
+sc0d & sc20::Send ◎
 sc0d & sc0f::Send [delighted awe] 
 sc0d & sc3a::Send [eng help]
+
 sc0d & sc11::Send [humorous amusement]
 sc0d & sc10::Send [affectionate warmth] 
 
