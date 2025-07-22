@@ -1,5 +1,5 @@
-﻿sc0d & sc12::Run "%LOCALAPPDATA%\Microsoft\WindowsApps\wt.exe"
-sc0d & sc13::Run "C:\projects\autoHotkey\index.ahk"
+﻿sc0d & sc24::Run "%LOCALAPPDATA%\Microsoft\WindowsApps\wt.exe"
+; sc0d & sc13::Run "C:\projects\autoHotkey\index.ahk"
 sc0d & sc0a::
     ClipboardBackup := ClipboardAll
     Clipboard := "console.log("
@@ -10,17 +10,29 @@ sc0d & sc0a::
     Clipboard := clipboardBackup
 return
 
-sc0d & sc24::!sc3e
-sc0d & sc2d::Send the{Space}
-sc0d & sc1f::Send ⫸
-sc0d & sc1e::Send ▷
-sc0d & sc21::Send ◉
-sc0d & sc20::Send ◎
-sc0d & sc0f::Send [delighted awe] 
-sc0d & sc3a::Send [eng help]
+; super top row
+sc0d & sc04::Send ✤{Space}
+sc0d & sc05::Send `````` ; backtick is an escape character. its actually ```
 
-sc0d & sc11::Send [humorous amusement]
-sc0d & sc10::Send [affectionate warmth] 
+; top row
+sc0d & sc13::Send ▷
+sc0d & sc12::Send ⫸
+sc0d & sc11::Send 〥
+sc0d & sc10::Send ⌘
+sc0d & sc0f::Send ∭{Space}
+
+; middle row
+sc0d & sc21::Send 〔{Space}
+sc0d & sc20::Send ✎{Space}
+sc0d & sc1f::Send ▰{Space}
+sc0d & sc1e::Send 〄{Space}
+sc0d & sc3a::Send ▸{Space}
+
+; bottom row
+sc0d & sc2c::Send ◎
+sc0d & sc2d::Send ◉
+
+
 
 sc0d & sc2e::Send {CtrlDown}{sc3c}{CtrlUp}{esc}
 
