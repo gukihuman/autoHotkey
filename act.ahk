@@ -12,7 +12,7 @@ return
 
 ; super top row
 sc0d & sc04::Send ✤{Space}
-sc0d & sc05::Send `````` ; backtick is an escape character. its actually ```
+sc0d & sc05::Send ``````{Enter} ; backtick is an escape character. its actually ```
 
 ; top row
 sc0d & sc13::Send ▷
@@ -22,11 +22,11 @@ sc0d & sc10::Send ⌘
 sc0d & sc0f::Send ∭{Space}
 
 ; middle row
-sc0d & sc21::Send 〔{Space}
+sc0d & sc21::Send ▰{Space}
 sc0d & sc20::Send ✎{Space}
-sc0d & sc1f::Send ▰{Space}
+sc0d & sc1f::Send ▸{Space}
 sc0d & sc1e::Send 〄{Space}
-sc0d & sc3a::Send ▸{Space}
+; sc0d & sc3a::Send smth
 
 ; bottom row
 sc0d & sc2c::Send ◎
