@@ -11,6 +11,6 @@ sc17 & sc0f::`;
 sc17 & sc24::^sc11
 sc11 & sc12::CapsLock
 
-sc17 & sc18::f2
+sc17 & sc18::f4
 
 sc18 & sc17::^f
