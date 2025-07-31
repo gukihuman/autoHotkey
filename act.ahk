@@ -33,6 +33,10 @@ sc0d & sc3a::Send ∭
 sc0d & sc2c::Send ◎
 sc0d & sc2d::Send ◉
 
+; from left hand
+sc02 & sc0a::Send ▒
+sc02 & sc0b::Send ▓
+
 
 
 sc0d & sc2e::Send {CtrlDown}{sc3c}{CtrlUp}{esc}
