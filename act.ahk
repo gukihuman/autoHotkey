@@ -11,7 +11,6 @@ sc0d & sc0a::
 return
 
 ; super top row
-; sc0d & sc04::Send ✤{Space}
 sc0d & sc04::Send ☷
 sc0d & sc05::Send ``````{Enter} ; backtick is an escape character. its actually ```
 
@@ -20,14 +19,16 @@ sc0d & sc13::Send ▷
 sc0d & sc12::Send ⫸
 sc0d & sc11::Send 〥
 sc0d & sc10::Send ⌘
-sc0d & sc0f::Send ❖{Space}
+sc0d & sc0f::Send ❖
+
 
 ; middle row
-sc0d & sc21::Send ▰{Space}
-sc0d & sc20::Send ✎{Space}
-sc0d & sc1f::Send ▸{Space}
-sc0d & sc1e::Send 〄{Space}
+sc0d & sc21::Send ▰
+sc0d & sc20::Send ✎
+sc0d & sc1f::Send ▸
+sc0d & sc1e::Send 〄
 sc0d & sc3a::Send ∭
+sc0d & sc2a::Send ∫
 
 ; bottom row
 sc0d & sc2c::Send ◎
@@ -36,8 +37,14 @@ sc0d & sc2d::Send ◉
 ; from left hand
 sc02 & sc0a::Send ▒
 sc02 & sc0b::Send ▓
+sc02 & sc32::Send ✤
 
+; right hand new
+sc17 & sc12::Send ⋯
+sc12 & sc1a::Send ↜
 
+; glyphs
+sc02 & sc24::Send ➥
 
 sc0d & sc2e::Send {CtrlDown}{sc3c}{CtrlUp}{esc}
 

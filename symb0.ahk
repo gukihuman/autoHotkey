@@ -2,8 +2,6 @@ sc17 & sc21::)
 sc17 & sc20::(
 sc17 & sc1f::]
 sc17 & sc1e::[
-sc17 & sc2f::}
-sc17 & sc2e::{
 sc17 & sc13::.
 sc17 & sc11::,
 sc17 & sc10:::
