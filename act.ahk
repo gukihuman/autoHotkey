@@ -20,6 +20,7 @@ sc0d & sc12::Send ⫸
 sc0d & sc11::Send 〥
 sc0d & sc10::Send ⌘
 sc0d & sc0f::Send ❖
+; Send ♢ ; what button dont know
 
 
 ; middle row
@@ -31,8 +32,8 @@ sc0d & sc3a::Send ∭
 sc0d & sc2a::Send ∫
 
 ; bottom row
-sc0d & sc2c::Send ◎
-sc0d & sc2d::Send ◉
+sc0d & sc2c::Send ⊗
+sc0d & sc2d::Send ⊚
 
 ; from left hand
 sc02 & sc0a::Send ▒
